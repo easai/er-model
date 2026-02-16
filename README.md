@@ -1,5 +1,7 @@
 # Erdős–Rényi Model
 
+<img src="https://github.com/easai/er-model/blob/main/graph1.png" width="300" />
+
 This repository provides a compact, self‑contained environment for generating and examining finite realizations of the Erdős–Rényi random graph ensemble. The project focuses on the canonical `G(n, p)` formulation, in which each potential edge among n labeled vertices is included independently with probability p. Although elementary to define, this model exhibits a rich collection of structural phase transitions and serves as a foundational object in probabilistic combinatorics, network science, and the study of branching‑process approximations.
 
 ## Overview
@@ -20,3 +22,4 @@ The project relies on standard scientific Python libraries for graph generation 
 
 ## References
 [Erdős–Rényi graphs and Branching processes](https://economics.mit.edu/sites/default/files/inline-files/Lecture%203%20-%20Erdos-Renyi%20Graphs%20and%20Branching%20Processes.pdf)
+
